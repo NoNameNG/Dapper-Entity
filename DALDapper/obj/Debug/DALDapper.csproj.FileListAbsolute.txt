@@ -1,0 +1,15 @@
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\DALDapper.dll.config
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\DALDapper.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\DALDapper.pdb
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Dapper.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Model.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Model.pdb
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Model.dll.config
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Dapper.xml
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\obj\Debug\DALDapper.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\obj\Debug\DALDapper.csproj.CopyComplete
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\obj\Debug\DALDapper.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\obj\Debug\DALDapper.pdb
+D:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\obj\Debug\DALDapper.csprojAssemblyReference.cache
+d:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Ninject.dll
+d:\Учеба\6 семестр\Архитектура\Lab1\DALDapper\bin\Debug\Ninject.xml

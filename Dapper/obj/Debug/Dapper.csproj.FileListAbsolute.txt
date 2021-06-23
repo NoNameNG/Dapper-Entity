@@ -1,0 +1,11 @@
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\bin\Debug\Dapper.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\bin\Debug\Dapper.pdb
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\bin\Debug\Model.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\bin\Debug\Model.pdb
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\bin\Debug\Model.dll.config
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\bin\Debug\Dapper.xml
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\obj\Debug\Dapper.csprojAssemblyReference.cache
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\obj\Debug\Dapper.csproj.CopyComplete
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\obj\Debug\Dapper.dll
+D:\Учеба\6 семестр\Архитектура\Lab1\Dapper\obj\Debug\Dapper.pdb
